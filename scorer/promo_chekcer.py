@@ -10,4 +10,7 @@ def is_promo(promo):
         text = detect_text(promo[3], True)
         photo_score = score_promo(text, word_list)
 
-    return text_score + photo_score
+    if text_score + photo_score >=10:
+        return True
+    else:
+        return False
