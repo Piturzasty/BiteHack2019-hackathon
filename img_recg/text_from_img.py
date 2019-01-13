@@ -4,7 +4,7 @@ from google.oauth2 import service_account
 
 
 def detect_text(path, is_url=False):
-    credentials = service_account.Credentials.from_service_account_file('./keys/key.json')
+    credentials = service_account.Credentials.from_service_account_file('C:\\Users\\Leslie\\Documents\\hackaton\\BiteHack2019-hackathon\\img_recg\\keys\\key.json')
 
     client = vision.ImageAnnotatorClient(credentials=credentials)
     if is_url:

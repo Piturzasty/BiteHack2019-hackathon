@@ -1,5 +1,6 @@
 import facebook
 import datetime
+from scorer.promo_chekcer import is_promo
 
 
 file = open('fb_token', "r")
@@ -25,4 +26,6 @@ def fromFacebook(id):
 
 
 test = fromFacebook(id)
-print(test)
+
+for elem in test:
+    print(is_promo(elem))
