@@ -1,15 +1,25 @@
-Promocja promo promocja promka
-zniżka zniżać zniżyć
+promocja-promo-promocja-promka
+zniżka-zniżać-zniżyć-zniżamy-zniżać
 upust
-obniżanie obniżka obniżka obniżać obniżamy
-zniżamy zmniejszamy
-opuszczamy przecena przecanić przecaniamy
+obniżanie-obniżka-obniżać-obniżamy-obniżam
+zmniejszamy-zmniejszyć-zmniejsza
+opuszczamy
+przecena-przecanić-przecaniamy-przecaniam
 rabat
-redukcja redukować redukujemy
+redukcja-redukować-redukujemy
 schodzimy
 spadek
-ulga ulgi
-umniejszenie upust upuszczamy upuszczać
-wyprzedaż wyprzedajemy
-zmniejszenie zmniejszamy zmniejszyć zmniejsza
+ulga-ulgi
+upust-upuszczamy-upuszczać-upuścić
+wyprzedaż-wyprzedajemy-wyprzedać
+zmniejszenie-zmniejszamy-zmniejszyć-zmniejsza
 %
+w poniedziałeki-w poniedziałek
+we wtorek-we wtorki
+w środy-w środę
+w czwartek-w czwartki
+w piątek-w piątki
+w sobotę-w soboty
+w niedzielę-w niedziele
+super oferta
+specjalna oferta
